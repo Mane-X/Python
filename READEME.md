@@ -1,2 +1,2 @@
-# Basic ptython apps
+# Basic python apps
 ### hope you have fun
